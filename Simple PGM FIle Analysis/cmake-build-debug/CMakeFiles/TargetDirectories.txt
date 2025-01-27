@@ -1,0 +1,3 @@
+/Users/smoke/CLionProjects/Simple PGM FIle Analysis/cmake-build-debug/CMakeFiles/Simple_PGM_FIle_Analysis.dir
+/Users/smoke/CLionProjects/Simple PGM FIle Analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/smoke/CLionProjects/Simple PGM FIle Analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
